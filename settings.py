@@ -67,7 +67,7 @@ GITEE_FRIENDS_LINKS = {
     "type": "volantis",  # volantis用户请在这里填写 volantis
     "owner": "pikoyo",  # 填写你的github用户名
     "repo": "hexo-friends",  # 填写你的github仓库名
-    "state": "open"  # 填写抓取的issue状态(open/closed)
+    "state": "closed"  # 填写抓取的issue状态(open/closed)
 }
 
 # 屏蔽站点
