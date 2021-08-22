@@ -58,7 +58,7 @@ GITHUB_FRIENDS_LINKS = {
     "type": "normal",  # volantis用户请在这里填写 volantis
     "owner": "Zfour",  # 填写你的github用户名
     "repo": "zfour-friends",  # 填写你的github仓库名
-    "state": "open"  # 填写抓取的issue状态(open/closed)
+    "state": "closed"  # 填写抓取的issue状态(open/closed)
 }
 
 # gitee友链配置
